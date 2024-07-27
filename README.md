@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me email:nzizaprince7@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm really interested in game development you can check my alien invasion repo
+- ⚡ Fun fact: I'm also interested in game development you can check my alien invasion repo
 - 
 
 <!---
