@@ -1,14 +1,14 @@
-### Hellooooo, I'm Prince 👋
+## Hellooooo, I'm Prince 👋
 
 🛠️ Backend & infrastructure engineer — I build APIs, own deployments, and manage the servers my projects run on. Comfortable across the stack, but backend/DevOps is where I go deep.
 
 🚀 Currently building **AgriSense** — an AI-powered farming platform with a full ML model for crop recommendations, a Nest.js backend, and a VPS I manage end-to-end.
 
-🎨 Also solid on the frontend — check out **Bambu**, a multi-tenant inventory/CRM platform where I built both the UI and the backend logic powering it.
+🎨 Also solid on the frontend — check out **mybambuapp.com**, a multi-tenant inventory/CRM platform where I worked on both the UI/UX and the backend logic and the chatbot powering it.
 
-🌱 Leveling up my backend toolkit with **Spring Boot** right now.
+🌱 Leveling up my backend toolkit with **Python Django** right now.
 
-🤝 Open to collaborating on backend-heavy, infra, or DevOps-flavored projects — always down to build something real.
+🤝 Open to collaborating on backend-heavy, infra, Good looking frontends,or DevOps-flavored projects — always down to build something real.
 
 📫 Reach me at **nzizaprince7@gmail.com**
 
