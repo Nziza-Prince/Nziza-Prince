@@ -2,7 +2,7 @@
 
 🛠️ Backend & infrastructure engineer — I build APIs, own deployments, and manage the servers my projects run on. Comfortable across the stack, but backend/DevOps is where I go deep.
 
-🚀 Currently building Ntwaza, a parcel tracking system with a Next.js frontend and Python/Django backend, focused on making parcel management and tracking simple and reliable.
+🚀 Currently building **Ntwaza**, a parcel tracking system with a Next.js frontend and Python/Django backend, focused on making parcel management and tracking simple and reliable.
 
 🎨 Also solid on the frontend — check out **mybambuapp.com**, a multi-tenant inventory/CRM platform where I worked on both the UI/UX and the backend logic and the chatbot powering it.
 
