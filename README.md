@@ -1,4 +1,4 @@
-## Hellooooo, I'm Prince 👋
+## Hello, I'm Prince 👋
 
 🛠️ Backend & infrastructure engineer — I build APIs, own deployments, and manage the servers my projects run on. Comfortable across the stack, but backend/DevOps is where I go deep.
 
